@@ -1,1 +1,1 @@
-"# local_repository" 
+# local_repository
